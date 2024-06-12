@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="https://altiplano.uvg.edu.gt/nosotros/img/png/Logo%20UVG-%20Colores.png" width="200" />
+</div>
+
 # Proyecto Final para el Curso de Introducción a Algoritmos y Programación de la Universidad del Valle de Guatemala Campus Altiplano Año 2024
 
 # Catedrático: Lic. Marvin Quiñónez
