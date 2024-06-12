@@ -180,7 +180,6 @@ struct Libro {
         
         string titulobuscado;
         string generobuscado;
-        string listarlibros;
    	cout<<"\nBIBLIOTECA VIRTUAL MIFSI\n"<<endl;
    	cout<<"\nBIENVENIDO A MIFSI!.\n"<<endl;
     cout<<"Somos una entidad que promueve la lectura en la comunidad educativa."<<endl;
