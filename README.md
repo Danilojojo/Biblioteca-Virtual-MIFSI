@@ -9,18 +9,19 @@
 
 
   ## Programa #1
-El problema que se aborda en el proyecto del Sistema de Gestión de Biblioteca es la necesidad de desarrollar una aplicación que permita gestionar de manera eficiente y organizada el inventario de libros de una biblioteca.
+El Sistema de Biblioteca MIFSI, se origina a partir de la necesidad de desarrollar una aplicación que permita gestionar de manera eficiente y organizada el inventario de libros de una biblioteca.
 
 El objetivo principal del proyecto es crear un sistema que facilite las siguientes operaciones:
 
-Agregar libros: Permitir al personal de la biblioteca agregar nuevos libros al sistema, incluyendo información detallada como el título, autor, género, año de publicación y un status para saber si está prestado o no.
 
-Buscar y mostrar información: Implementar funciones que permitan buscar libros por diferentes criterios (título y género) y mostrar la información detallada del libro buscado, incluyendo su disponibilidad en caso de estar prestado.
+Agregar Libro: permite añadir un nuevo libro a la biblioteca
 
-Listar los libros: Mostrar una tabla con todos los libros registrados, incluyendo todos sus detalles.
-Actualizar información: Facilitar la actualización de la información de los libros en caso de cambios así como actualizar el status para saber si está prestado o si está disponible.
+Buscar libro: Búsqueda de libros por titulo o genero
 
-Nota: El programa debe entregarse como un archivo ejecutable para sistemas operativos Windows de 32 bits y debe de contener 2 libros registrados por default (o sea que al iniciar el programa ya me tenga cargado 2 libros registrados en el sistema).
+Listar Libros: Muestra todos los libros de la biblioteca.
+
+Editar libro: Permite modificar la información de un libro o cambiar su
+
 
 ### Integrantes
 - Danilo Urizar
