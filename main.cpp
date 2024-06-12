@@ -203,7 +203,7 @@ struct Libro {
 		cout<<"Sistema de Gestion de Biblioteca\n"<<endl;
     	cout<<"Estimado usuario, a continuacion se le presentan una serie de opciones a elegir dentro de nuestra biblioteca virtual"<<endl;
 		cout<<"Para acceder a la opcion que desea, debe ingresar el numero con el que se identifica."<<endl;
-		cout<<"Si desea salir del programa ingrese el numero 5.\n"<<endl;
+		cout<<"Si desea salir del programa ingrese el numero 6.\n"<<endl;
 		
 
         cout << "Menu de opciones:" << endl;
